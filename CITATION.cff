@@ -21,7 +21,7 @@ date-released: "2026-09-14"
 # repository-code: fill in after the GitHub repository is created
 # identifiers:
 #   - type: doi
-#     value: <concept DOI>
+#     value: <concept DOI> https://doi.org/10.5281/zenodo.22749236
 #     description: "Concept DOI, always resolving to the latest archived release"
 keywords:
   - non-inferiority
