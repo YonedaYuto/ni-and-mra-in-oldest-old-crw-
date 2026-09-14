@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Analysis code for a non-inferiority and multivariable logistic regression analysis of functional outcome in oldest-old convalescent rehabilitation inpatients"
+abstract: >-
+  R code implementing preprocessing, cohort description, Brunner-Munzel
+  non-inferiority testing of motor FIM gain with Hodges-Lehmann shifts and
+  ATS interaction tests, and a multivariable logistic regression of good
+  functional outcome using restricted cubic splines and
+  substantive-model-compatible multiple imputation (smcfcs), including
+  separation handling, variable and interaction selection, performance
+  assessment and bootstrap optimism correction. No individual patient data
+  are included.
+type: software
+authors:
+  - family-names: Yoneda
+    given-names: Yuto
+    orcid: "https://orcid.org/0009-0006-0338-5673"
+license: MIT
+version: 1.0.0
+date-released: "2026-09-14"
+# repository-code: fill in after the GitHub repository is created
+# identifiers:
+#   - type: doi
+#     value: <concept DOI>
+#     description: "Concept DOI, always resolving to the latest archived release"
+keywords:
+  - non-inferiority
+  - Brunner-Munzel
+  - logistic regression
+  - multiple imputation
+  - smcfcs
+  - restricted cubic splines
+  - rehabilitation
+  - functional independence measure
+  - oldest old
