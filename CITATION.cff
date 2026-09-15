@@ -21,7 +21,7 @@ date-released: "2026-09-14"
 # repository-code: https://github.com/YonedaYuto/ni-and-mra-in-oldest-old-crw-
 # identifiers:
 #   - type: doi
-#     value: <concept DOI> https://doi.org/10.5281/zenodo.22749514
+#     value: <concept DOI> https://doi.org/10.5281/zenodo.22749235
 #     description: "Concept DOI, always resolving to the latest archived release"
 keywords:
   - non-inferiority
