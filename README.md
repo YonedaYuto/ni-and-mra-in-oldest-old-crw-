@@ -2,7 +2,7 @@
 
 R code for two analyses of the same convalescent rehabilitation cohort:
 
-1. Non-inferiority of gain of FIM in the oldest-old, tested with the
+1. Non-inferiority of motor FIM in the oldest-old, tested with the
    Brunner–Munzel statistic and its relative effect, with Hodges–Lehmann shifts,
    inverted confidence intervals, Holm adjustment, and an ATS test for
    interaction with a marginal gate.
@@ -85,7 +85,7 @@ Shared preparation and cohort description, used by both analyses.
 
 ### 07–10 Non-inferiority
 
-Brunner–Munzel non-inferiority of the motor FIM gain, and its interactions.
+Brunner–Munzel non-inferiority of the motor FIM, and its interactions.
 
 | Script | Plan | Step |
 |---|---|---|
